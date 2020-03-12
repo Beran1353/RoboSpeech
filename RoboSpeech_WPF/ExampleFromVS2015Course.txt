@@ -1,0 +1,7 @@
+This example is from my Lynda.com course:
+Visual Studio 2015 Essentials 04: Surveying the Programming Languages
+http://www.lynda.com/Visual-Studio-tutorials/Visual-Studio-2015-Essentials-04-Surveying-programming-languages/415314-2.html
+
+See a playlist of all my Visual Studio 2015 courses at.
+
+http://www.lynda.com/SharedPlaylist/fa1f6019209840a0b17edadd7db3b51e
